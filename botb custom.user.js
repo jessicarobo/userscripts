@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         botb custom dev
+// @name         botb custom
 // @author       Jessica Robo
 // @version      0.3
 // @namespace    http://battleofthebits.org/
